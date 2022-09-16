@@ -77,6 +77,7 @@
   <!-- Proprietary -->
   <project name="android_vendor_qcom_proprietary_audio-devicetree" path="vendor/qcom/proprietary/audio-devicetree" remote="oneplus-sm8475-kernel"/>
   <project name="android_vendor_qcom_proprietary_camera-devicetree" path="vendor/qcom/proprietary/camera-devicetree" remote="oneplus-sm8475-kernel"/>
+  <project name="android_vendor_qcom_proprietary_cvp-devicetree" path="vendor/qcom/proprietary/cvp-devicetree" remote="oneplus-sm8475-kernel"/>
   <project name="android_vendor_qcom_proprietary_display-devicetree" path="vendor/qcom/proprietary/display-devicetree" remote="oneplus-sm8475-kernel"/>
   <project name="android_vendor_qcom_proprietary_mmrm-devicetree" path="vendor/qcom/proprietary/mmrm-devicetree" remote="oneplus-sm8475-kernel"/>
   <project name="android_vendor_qcom_proprietary_video-devicetree" path="vendor/qcom/proprietary/video-devicetree" remote="oneplus-sm8475-kernel"/>
