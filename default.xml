@@ -6,7 +6,7 @@
 
   <!-- Kernel platform manifest -->
   <project name="kernel/build" path="kernel_platform/build" revision="56594101567799238a9947ac5bc006e1b0d8595a" upstream="refs/heads/kernel.lnx.5.10.r1-rel"/>
-  <project groups="qki" name="kernel/common" path="kernel_platform/common" revision="061410a787bbe35cea1e70c63daf597323f8cd2c" upstream="refs/heads/ks-kernel.lnx.1.0.r1-rel"/>
+  <project groups="qki" name="kernel/common" path="kernel_platform/common" revision="3b4ca92614fdb022b108d1da88a927b8e0ac442e" upstream="refs/heads/ks-kernel.lnx.1.0.r1-rel"/>
   <project name="android_kernel_platform_msm-kernel" path="kernel_platform/msm-kernel" upstream="refs/heads/kernel.lnx.5.10.r1-rel" remote="oneplus-sm8475-kernel">
     <linkfile dest="kernel_platform/common/build.config.msm.waipio" src="build.config.msm.waipio"/>
     <linkfile dest="kernel_platform/common/build.config.msm.waipio.tuivm" src="build.config.msm.waipio.tuivm"/>
